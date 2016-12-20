@@ -1,2 +1,3 @@
 # CNTL-Repositor
-Repositório de códigos fonte dos projetos da CNTL
+CNTL: Tarcisio Cantalice
+CNTL-Repositor: Reposítório geral de arquivos e códigos fonte, de APIs e projetos em Java.
